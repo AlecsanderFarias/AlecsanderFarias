@@ -1,10 +1,3 @@
-
-
-jlenon7
-
-jlenon7 jlenon7 jlenon7 jlenon7
-
-
 # AlecsanderFarias 🚀
 
 > Hi! my name is Alecsander Farias, I'm from Brazil I'm A Software Engineer, that has been working as a Full Stack Developer since 2018.
@@ -54,7 +47,7 @@ jlenon7 jlenon7 jlenon7 jlenon7
   </a>
   
   <a href="https://firebase.google.com/" target="_blank">
-      <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/lockup.png" alt="Firebase" height="30" width="30" />
+      <img align="center" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="30" width="30" />
   </a>
 
 
@@ -104,7 +97,7 @@ jlenon7 jlenon7 jlenon7 jlenon7
   </a>
   
   <a href="https://firebase.google.com/" target="_blank">
-      <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/lockup.png" alt="Firebase" height="30" width="30" />
+      <img align="center" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="30" width="30" />
   </a>
 
   </br><b>For API</b>
@@ -128,7 +121,7 @@ jlenon7 jlenon7 jlenon7 jlenon7
   </a>
 
   <a href="https://firebase.google.com/" target="_blank">
-      <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/lockup.png" alt="Firebase" height="30" width="30" />
+      <img align="center" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="30" width="30" />
   </a>
 
   <a href="https://www.heroku.com/" target="_blank">
