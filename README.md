@@ -27,9 +27,6 @@
 
 <br>
 
-
-<h3>With love 💙</h3>
-
 [![GitHub followers](https://img.shields.io/github/followers/AlecsanderFarias.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AlecsanderFarias?tab=followers)
 
 <details>
