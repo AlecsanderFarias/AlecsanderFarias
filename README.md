@@ -1,6 +1,6 @@
 # AlecsanderFarias 🚀
 
-> Hi! my name is Alecsander Farias, I'm from Brazil I'm A Software Engineer, that has been working as a Full Stack Developer since 2018.
+> Hi! my name is Alecsander Farias, I'm from Brazil I'm A Software Engineer, that has been working as a Full Stack Developer since 2018.</br>
 > I am a developer and team leader who loves the javascript environment and Front-end interaction with Back-end to create beautiful and efficient systems!
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlecsanderFarias&show_icons=true&theme=dracula&locale=en" alt="AlecsanderFarias" width="400px" align="right" hspace="30px" vspace="40px"/>
